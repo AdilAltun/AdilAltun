@@ -1,9 +1,6 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--V0ekZaVJ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg)
 <h1 align="center">Hi 👋, I'm Adil.</h1>
 <h3 align="center">Junior Software Developer</h3>
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adilaltun&label=Profile%20views&color=0e75b6&style=flat" alt="adilaltun" /> </p>
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
