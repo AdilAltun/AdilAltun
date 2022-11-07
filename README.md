@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring Framework, React Native.**
 
-- 💬 Ask me about **Java SE, React Native, Spring Framework.**
+- 💬 Ask me about **Java SE, Java EE, React Native, Spring Framework.**
 
 - 📫 How to reach me **adil.altun06@outlook.com**
 
