@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adil.</h1>
-<h3 align="center">Junior Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 <img align="right" alt="Coding" width="500" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
