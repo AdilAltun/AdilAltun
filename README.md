@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, React JS.**
+- 🌱 I’m currently learning **Spring Boot and related area.**
 
-- 💬 Ask me about **Java SE, Java EE, React JS, Spring Boot.**
+- 💬 Ask me about **Java SE, Java EE, Spring Boot.**
 
 - 📫 How to reach me **adilaltun08@gmail.com**
 
